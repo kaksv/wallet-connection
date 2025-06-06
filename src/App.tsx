@@ -2,8 +2,8 @@
 import './App.css'
 import { useAccount } from 'wagmi'
 import { Account } from './account'
-import { WalletOptions } from './wallet-options'
-import { Web3Provider  } from './Web3provider'
+import { WalletOptions } from './wallet-options.tsx'
+import { Web3Provider  } from './Web3provider.tsx'
 import { ConnectKitButton } from 'connectkit'
 
 
